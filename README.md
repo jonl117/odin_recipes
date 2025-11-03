@@ -1,1 +1,1 @@
-<!-- This is my Odin Project recipes webpage! -->
+This is my Odin Project recipe webpage!
